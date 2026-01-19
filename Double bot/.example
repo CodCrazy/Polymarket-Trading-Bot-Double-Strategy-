@@ -1,0 +1,20 @@
+# Polymarket API Configuration
+API_KEY=7c905d4a-9f8b-275c-7510-50ded359c596
+API_SECRET=tUietISv03HSy7HR_RDkv-MBhjkUnsEBfcv61R-k3yc=
+API_PASSPHRASE=17fb3ebc4537d76c2faf62600e2c82cfd0d359ffaf7f7858fa5d84341205fa36
+
+# Wallet Configuration (for relayer)
+PRIVATE_KEY=0x478395874fc7193ed7ad8a101fcd485566438b732bf5548c3961736cfa6a9c1d
+RPC_URL=https://polygon-rpc.com/
+PROXY_ADDRESS=0x5B502863Db6f8Cd6dd0666325bEAfB20F0155C6A
+FUNDER_ADDRESS=0x5B502863Db6f8Cd6dd0666325bEAfB20F0155C6A
+SAFE_ADDRESS=0x5B502863Db6f8Cd6dd0666325bEAfB20F0155C6A
+CTF_CONTRACT_ADDRESS=0x7b3bd12675c6b9d6993eb81283cb68e6eb9260b5
+
+# Builder Configuration (if using builder program)
+# BUILDER_API_KEY=your_builder_api_key_here
+# BUILDER_API_SECRET=your_builder_api_secret_here
+
+# Trading Configuration
+TRADE_AMOUNT_USDC=2  # Amount to trade in USDC
+MAX_SLIPPAGE=0.01     # Max slippage for orders

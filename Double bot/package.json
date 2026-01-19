@@ -1,0 +1,27 @@
+{
+  "name": "opposite-bot",
+  "version": "1.0.0",
+  "description": "Polymarket trading bot for buying YES/NO tokens on future markets",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": ["polymarket", "trading", "bot"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@polymarket/clob-client": "^5.1.1",
+    "dotenv": "^17.2.3",
+    "ethers": "^5.7.2",
+    "luxon": "^3.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.7.1",
+    "@types/node": "^25.0.3"
+  }
+}
+
