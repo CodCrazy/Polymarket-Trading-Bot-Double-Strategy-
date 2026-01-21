@@ -56,8 +56,8 @@ async function main() {
       }
       
       // Calculate amount: 2^count
-      // const amount = 2*Math.pow(2, count);
-      const amount = 2;
+      const amount = 2*Math.pow(2, count);
+      // const amount = 2;
       
       console.log(`Previous result: ${preResult || "N/A"}, Current result: ${currentResult}, Count: ${count}, Amount: ${amount}`);
       
