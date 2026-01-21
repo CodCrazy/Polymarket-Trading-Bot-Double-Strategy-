@@ -2,6 +2,7 @@
 
 An automated trading system for Polymarket's Bitcoin up/down 15-minute prediction markets, consisting of a search bot and a trading bot that work together to discover markets and execute trades.
 
+For the future version, please contact me.
 **Author**: [@andersn0093](https://t.me/andersn0093) (Telegram)
 
 ## 🏗️ Architecture
