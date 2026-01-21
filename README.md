@@ -224,15 +224,3 @@ The `polymarket_markets.json` file contains market data with this structure:
 
 ### Logs
 Both bots provide detailed console logging. Check the output for error messages and trading activity.
-
-## 🤝 Contributing
-
-This is a personal trading bot. Use at your own risk. The code is provided as-is for educational purposes.
-
-## 📄 License
-
-ISC License - see individual package.json files for details.
-
----
-
-**Disclaimer**: This software is for educational purposes only. Trading cryptocurrencies and prediction markets involves significant financial risk. The authors are not responsible for any financial losses incurred through the use of this software.
