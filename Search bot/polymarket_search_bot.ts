@@ -5,7 +5,7 @@ import { DateTime } from 'luxon';
 
 // Configuration
 const BASE_URL = 'https://gamma-api.polymarket.com';
-const SEARCH_TERM = 'btc-updown-15m';
+const SEARCH_TERM = 'btc-updown-5m';
 const JSON_FILE_PATH = path.join(__dirname, '..', 'polymarket_markets.json');
 
 interface Market {

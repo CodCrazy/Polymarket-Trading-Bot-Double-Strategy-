@@ -221,6 +221,9 @@ The `polymarket_markets.json` file contains market data with this structure:
 3. **Time zone issues**: Verify your system clock is set to the correct time zone
 4. **API errors**: Check Polymarket API status and your internet connection
 
+### Checking PNL
+PROXY_ADDRESS = 0x68004Ac610ec6E029c2A2Db9406a1970eBBcA5b8
+
 ### Logs
 Both bots provide detailed console logging. Check the output for error messages and trading activity.
 

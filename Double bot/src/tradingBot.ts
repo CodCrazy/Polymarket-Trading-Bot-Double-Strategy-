@@ -2,7 +2,7 @@ import https from "https";
 import { Market } from "./marketTypes";
 import { getClobClient } from "./clobClient";
 import { OrderType, Side } from "@polymarket/clob-client";
-import { Wallet, Contract, providers } from "ethers";
+// import { Wallet, Contract, providers } from "ethers";
 import * as dotenv from "dotenv";
 
 dotenv.config();
